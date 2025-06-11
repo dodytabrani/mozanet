@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(to bottom right, #0f5cc0, #0051b8);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 100px;
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: white;
+    border: none;
+    color: #0051b8;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    margin-top: 100px;
+    font-size: 0.8em;
+    color: #c9c9c9;
+}
